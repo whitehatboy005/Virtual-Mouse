@@ -30,3 +30,6 @@ pip install -r requirements.txt
 ```bash
 python mouse.py
 ```
+## License
+
+This project is licensed under the terms of the [MIT license](LICENSE.md).
